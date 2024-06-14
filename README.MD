@@ -3,7 +3,7 @@
 Esse projeto tende a resolver o seguinte problema: 
  
     Na linha de produção, o operador passa o dia parafusando um objeto, o mesmo tem que colocar 9 
-    parafusoss, após repetir o processo várias vezes no dia, ele esquece um e vai para o cliente 
+    parafusos, após repetir o processo várias vezes no dia, ele esquece um e vai para o cliente 
     o produto com "defeito".
  
 O projeto resolve o problema usando duas partes principais, uma parafusadeira que conta parafusos e um sistema para travar a parafusadeira e "forçar" o operador a clicar um botão.
