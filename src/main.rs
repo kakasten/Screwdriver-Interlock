@@ -57,7 +57,7 @@ fn main() -> ! {
             closing_signal_pin.set_high().unwrap();
         }
         if locked_door_pin.is_low().unwrap(){
-            while button_pin.is_low().unwrap() {
+            while button_pin.is_high().unwrap() {
                 closing_signal_pin.set_high().unwrap();
             }
         }

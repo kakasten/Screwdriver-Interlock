@@ -14,5 +14,5 @@ cortex-m-rt = "0.7"
 rp2040-boot2 = "0.2.1"
 
 [[bin]]
-name = "blinky"
+name = "Screwdriver-Interlock"
 path = "src/main.rs"
